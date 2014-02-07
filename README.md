@@ -3,8 +3,14 @@ Farbtastic-Colorpicker-For-Colordino
 
 A webpage with a JavaScript color picker. Every change of the color picker causes an ajax request which changes the color of the Colordino.
 
+This is part of a bigger project:
+
+* Arduino Setup [[Blogpost](http://funkenstrahlen.de/blog/2013/02/26/arduino-blinkenlights-projekt/), [Code](https://github.com/i42n/arduino_blinkenlights)]
+* Color Picker [[Code](https://github.com/i42n/Farbtastic-Colorpicker-For-Colordino)]
+* Task Bar Tool for Mac OSX [[Blogpost](http://www.funkenstrahlen.de/blog/2013/04/29/colordino/), [Code](https://github.com/i42n/Colordino)]
+
 License
-=======
+-------
 
 The MIT License (MIT)
 
